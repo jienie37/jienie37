@@ -18,7 +18,7 @@ Welcome to my coding journey! 🚀
 
 Feel free to connect and explore the coding universe with me. Happy coding! 🚀
 
-### Git Commands
+## Git Commands
 
 - "git clone <URL of the repository>"
 - When you want to copy a repository from a remote source to your local machine.
