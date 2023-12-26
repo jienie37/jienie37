@@ -1,19 +1,19 @@
-### Hi there 👋
+# Hey, I'm Jiengrey! 👋
 
-<!--
-**jienie37/jienie37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my coding journey! 🚀
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on myself to be a better person with a good mind and practicing on attaining my goal without getting lazy or disheartened
+- 🔭 I’m currently working on myself to be a better person, embracing personal growth and striving to achieve my goals without succumbing to laziness or discouragement.
 
-- 🌱 I’m currently learning through web systems and technology, very excited to learn more about the coding world. although it gets hard sometimes i do enjoy experimenting on it
+- 🌱 I’m diving into the fascinating world of web systems and technology. Even though it gets challenging, I find joy in experimenting and learning in the coding realm.
 
-- 👯 I’m looking to collaborate on future school projects so that we can learn with each other as we progress
+- 👯 I’m eager to collaborate on future school projects. Let's learn and grow together as we navigate the exciting world of coding!
 
-- 📫 How to reach me: the teams account should be easy enough "Jiengrey Crisostomo"
+- 📫 How to reach me: You can find me on the team's account as "Jiengrey Crisostomo."
 
 - 😄 Pronouns: he/they
 
-- ⚡ Fun fact: Accidental success are much more fun than having a low goal
--->
+- ⚡ Fun fact: I believe accidental successes are much more fun than achieving a low goal. Embrace the unexpected and enjoy the journey!
+
+Feel free to connect and explore the coding universe with me. Happy coding! 🚀
