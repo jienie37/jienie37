@@ -17,3 +17,18 @@ Welcome to my coding journey! 🚀
 - ⚡ Fun fact: I believe accidental successes are much more fun than achieving a low goal. Embrace the unexpected and enjoy the journey!
 
 Feel free to connect and explore the coding universe with me. Happy coding! 🚀
+
+### Git Commands
+- "git clone <URL of the repository>"
+= When you want to copy a repository from a remote source to your local machine.
+
+- "git branch <-a, -d>"
+= To list, create, or delete branches within a repository.
+
+- "git commit <-a, -m> "text" "
+= Record changes to the repository
+
+- "git pull <origin, remote, branch> <location>"
+= Fetch changes from a remote repository.
+
+- "git push
