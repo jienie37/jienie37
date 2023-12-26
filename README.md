@@ -22,25 +22,25 @@ Feel free to connect and explore the coding universe with me. Happy coding! 🚀
 
 ### "git clone <URL of the repository>"
 - When you want to copy a repository from a remote source to your local machine.
-- I.E. git clone https://github.com/jienie37/jienie37/edit/main/README.md
+- Ex.  git clone https://github.com/jienie37/jienie37/edit/main/README.md
 
 
 ### "git branch <-a, -d>"
 - To list, create, or delete branches within a repository.
-- I.E. git branch -a
+- Ex.  git branch -a
 
 
 ### "git commit <-a, -m> "text" "
 - Record changes to the repository
-- I.E. git commit -m "Jiengrey Crisostomo"
+- Ex.  git commit -m "Jiengrey Crisostomo"
 
 
 ### "git pull <origin> <remote, branch>"
 - Fetch changes from a remote repository.
-- git pull origin main
+- Ex.  git pull origin main
   
 
 ### "git push <origin> <remote, branch>"
 - Update the remote repository.
-- I.E. git push origin feature_branch
+- Ex.  git push origin feature_branch
 
