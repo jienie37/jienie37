@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hey, I'm Jiengrey! 👋
 
-<!--
-**jienie37/jienie37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my coding journey! 🚀
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on myself to be a better person, embracing personal growth and striving to achieve my goals without succumbing to laziness or discouragement.
+
+- 🌱 I’m currently learning through web systems and technology, very excited to learn more about the coding world. although it gets hard sometimes i do enjoy experimenting on it
+
+- 👯 I’m looking to collaborate on future school projects so that we can learn with each other as we progress
+
+- 📫 How to reach me: You can find me on the team's account as "Jiengrey Crisostomo."
+
+- 😄 Pronouns: he/they
+
+- ⚡ Fun fact: I believe accidental successes are much more fun than achieving a low goal. Embrace the unexpected and enjoy the journey!
+
+Feel free to connect and explore the coding universe with me. Happy coding! 🚀
+
+## Git Commands
+
+### "git clone <URL of the repository>"
+- When you want to copy a repository from a remote source to your local machine.
+- Ex.  git clone https://github.com/jienie37/jienie37/edit/main/README.md
+
+
+### "git branch <-a, -d>"
+- To list, create, or delete branches within a repository.
+- Ex.  git branch -a
+
+
+### "git commit <-a, -m> "text" "
+- Record changes to the repository
+- Ex.  git commit -m "Jiengrey Crisostomo"
+
+
+### "git pull <origin> <remote, branch>"
+- Fetch changes from a remote repository.
+- Ex.  git pull origin main
+  
+
+### "git push <origin> <remote, branch>"
+- Update the remote repository.
+- Ex.  git push origin feature_branch
